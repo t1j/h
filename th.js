@@ -1,1 +1,1 @@
-document.body.insertAdjacentHTML('afterbegin', `<div style='background:#00b4b4;color:white;font-size:20px;width:100%;height:40px;display:flex;align-items:center;justify-content:space-between;padding:0 20px'><span>${tm.dataset.n} - ${tm.dataset.v}</span><span>Paid By Mrjaz.com</span></div>`)
+document.body.insertAdjacentHTML('afterbegin', `<div style='background:#00b4b4;color:white;font-size:20px;width:100%;height:40px;display:flex;align-items:center;justify-content:space-between;padding:0 20px'><span>n - v</span><span>Paid By Mrjaz.com</span></div>`)
