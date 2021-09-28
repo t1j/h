@@ -1,2 +1,1 @@
-
-sonu
+let EFV=`<div style='position:absolute;z-index:-999;left:-99%'><a href='https://www.am2z.com'>Am2z.com</a><a href='https://www.mrjaz.com'>MrJaz.com</a><a href='https://templatetoy.mrjaz.com'>MrJaz.com</a></div>`;document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
